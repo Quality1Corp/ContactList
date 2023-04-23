@@ -10,29 +10,29 @@ final class DataStore {
     static let shared = DataStore()
     
     let names = [
-        "Александра",
-        "Иван",
-        "Екатерина",
-        "Михаил",
-        "Анна",
-        "Дмитрий",
-        "Ольга",
-        "Сергей",
-        "Наталья",
-        "Артем"
+        "Ethan",
+        "Olivia",
+        "Liam",
+        "Emma",
+        "Noah",
+        "Ava",
+        "William",
+        "Sophia",
+        "James",
+        "Isabella"
     ]
     
     let surnames = [
-        "Иванова",
-        "Петров",
-        "Сидорова",
-        "Кузнецов",
-        "Новикова",
-        "Смирнов",
-        "Козлова",
-        "Морозов",
-        "Васильева",
-        "1Зайцев"
+        "Smith",
+        "Johnson",
+        "Brown",
+        "Davis",
+        "Miller",
+        "Wilson",
+        "Moore",
+        "Taylor",
+        "Anderson",
+        "Jackson"
     ]
     
     let phones = [
